@@ -15,9 +15,9 @@ export default function Home() {
           <Tech />
           <Travel />
           <Other />
-          <div className="hidden md:block">
+          {/* <div className="hidden md:block">
             <Subscribe />
-          </div>
+          </div> */}
         </div>  
         <div className="basis-1/4">
           <Sidebar />

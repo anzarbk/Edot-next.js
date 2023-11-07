@@ -10,8 +10,8 @@ const openSans = Open_Sans({
 const isDark = true
 
 export const metadata = {
-  title: "Blog AI App",
-  description: "Blog built in Next JS that uses AI",
+  title: "Edot",
+  description: "Everything in the .",
 };
 
 export default function RootLayout({
